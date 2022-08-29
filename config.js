@@ -6,16 +6,7 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️One', true],
-  ['6282195322106', '️Two', true],
-  ['6282195322106', '️Three', true],
-  ['6282195322106', '️Four', true],
-  ['6282195322106', '️Five', true],
-  ['6282195322106', '️Six', true],
-  ['6282195322106', '️Seven', true],
-  ['6282195322106', '️Eight', true],
-  ['6282195322106', '️Nine', true],
-  ['6282195322106', '️Teen', true]
+  ['6281259929402', '️One', true],
 ]
 global.mods = []
 global.prems = []
@@ -78,8 +69,8 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
+global.nomorbot = '6282142110606'
+global.nomorown = '6281259929402'
 global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
